@@ -1,11 +1,11 @@
-# 🌐 Borderless Hub
+# Borderless Hub
 
 **A Borderless Coding company and innovation incubator.**  
 We build, support, and scale breakthrough products in **AI**, **SaaS**, and **Web3**.
 
 ---
 
-## 🚀 About Us
+## About Us
 
 **Borderless Hub** is a global incubator and coding powerhouse that thrives on turning ideas into reality.  
 Our mission is to empower creators and disrupt industries through advanced technology and fearless innovation.
@@ -14,7 +14,7 @@ We believe in building without borders — in geography, in imagination, and in 
 
 ---
 
-## 🧠 What We Do
+## What We Do
 
 - 🤖 **AI Innovation**  
   Machine learning systems, intelligent agents, generative models, and practical AI tools.
@@ -27,7 +27,7 @@ We believe in building without borders — in geography, in imagination, and in 
 
 ---
 
-## 🛠️ How We Work
+##  How We Work
 
 We act as an **incubator**:  
 - Supporting internal founders and external visionaries  
